@@ -2,7 +2,7 @@
 
 A clean, web-based productivity timer built with vanilla HTML, CSS, and JavaScript. This project implements the Pomodoro Technique (25-minute work intervals) to help manage time and focus.
 
-![Project Screenshot](Screenshot 2025-12-07 171657.png) 
+[Project Screenshot](pomodoro-app/Screenshot 2025-12-07 171657.png) 
 
 ## Built With
 
